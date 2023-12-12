@@ -1,5 +1,14 @@
 {
-  "name": "soham",
-  "project": "mind_grove",
-  "hackathon": "gfg_aura"
+  "name": [
+    "nishan",
+    "smit",
+    "love"
+  ],
+  "project": [
+    "mind-grove",
+    "gfg_hackathon"
+  ],
+  "profile": {
+    "name": "soham"
+  }
 }
